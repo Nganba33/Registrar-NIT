@@ -4,7 +4,7 @@ body {
 
 .All {
     background-color: rgb(250, 249, 249);
-    width: 800px;
+    width: 700px;
     font-size: 15px;
     margin-left: 200px;
     margin-top: 50px;
@@ -16,12 +16,11 @@ body {
 
 .icon {
     margin-left: 15px;
-    margin-top: 10px;
 }
 
 img {
     border: 5px solid white;
-    width: 350px;
+    width: 250px;
     height: 250px;
     box-shadow: 0 0 4px;
 }
